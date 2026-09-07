@@ -1,7 +1,6 @@
 # Hello Everyone 👋
 <img src="1.png" width="100%">
 
-<h1 align="center">Hello Everyone 👋, I'm Andrian Ardiansyah</h1>
 <br>
 
 **Introduction**
